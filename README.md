@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá, Bem Vindo ao meu perfil 🙏🏾🚀👋
 
+<p align="center">
+    <img src="https://drive.google.com/file/d/1JmQvhoycOA-SzsjrsjBeqO_-mtMYmMX0/view?usp=sharing" width="24px"
+</p>
 <!--
 **Silva-jr/Silva-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

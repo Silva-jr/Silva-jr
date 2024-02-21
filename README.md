@@ -12,12 +12,14 @@
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Silva-jr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Java" height="30" width="40" src="xhttps://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
   <img align="center" alt="Silva-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Silva-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/master/file_type_nestjs.svg">   
   <img align="center" alt="Silva-jr" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Silva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Silva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Silva-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">      
+
   
 </div>   
 <img style="width: 300px;" align="right" src="https://github.com/Silva-jr/Silva-jr/blob/main/programing.png?raw=true">
